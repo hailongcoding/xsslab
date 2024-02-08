@@ -1,0 +1,35 @@
+ html{
+    height: fit-content;
+    width: fit-content;
+}
+
+.logo{
+color: orange;
+}
+html{
+    background-color: rgb(20,20,20);
+}
+.upgrade{cursor: pointer;}
+.upgrade{
+    color: lime;
+    background-color: rgb(15,15,15);
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+b,
+del{
+    color: white;
+}
+.code{
+    border-style: dotted;
+    border-color: cyan;
+}
+.ico{
+    width: 2cm;
+    height: 2cm;
+}
