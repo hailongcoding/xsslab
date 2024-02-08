@@ -7,7 +7,7 @@
 <h3>-Its make by hailongcoding in 8<sup>th</sup>/Feb/2024</h3>
 <style>
   .logo{
-    height: 1cm;
-    width: 1cm;
+    width: 2cm;
+    height: 2cm;
   }
 </style>
