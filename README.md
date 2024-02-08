@@ -1,4 +1,4 @@
-#XssLab
+XssLab
 
 -Is a website to test XSS(cross-site-scripting)
 
